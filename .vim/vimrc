@@ -1,0 +1,9 @@
+filetype plugin indent on
+
+set number
+set relativenumber
+
+colorscheme solarized
+
+let mapleader = ' '
+nnoremap <Leader>y :%y+<CR>
