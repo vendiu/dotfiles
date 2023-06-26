@@ -190,4 +190,4 @@ mode "$mode_system" {
 
 bindsym $mod+p mode "$mode_system"
 
-exec_always redshift -P -O 4000
+exec_always redshift -P -O 3500
